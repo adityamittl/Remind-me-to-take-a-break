@@ -2,8 +2,11 @@
 
 ## 💡 Inspiration
 
+Do you feel annoyed pausing the video again while you don't look at your screen? Well, this is the solution for you. Remind me to take a break is a platform where the video you are watching is paused whenever you are not facing the screen. Your face is tracked and if you are not facing toward the screen, the video is paused.
+
 ## 💻 What it does
-Remind me to take a break is an platform where the video you are wathing is paused whenever you are not facing towards the screen. Your face is tracked and if you are not facing towards the screen, the video is paused.
+
+Remind me to take a break is a platform where the video you are watching is paused whenever you are not facing the screen. Your face is tracked and if you are not facing toward the screen, the video is paused. The video is automatically resumed when you are facing toward the screen. The video is paused after 1 hr so that you can take a break and move around.
 
 ## ⚙️ How we built it
 
@@ -28,10 +31,10 @@ Remind me to take a break is an platform where the video you are wathing is paus
 
 ## 📖 What we learned
 
-- How to make a Android application.
+- How to make an Android application.
 - Implementing backend with Django.
 
 ## 🚀 What's next for Remind me to take a break
 
 - Adding more features to the application.
-- Improving the efficiency of the Model and deploying it to cloud.
+- Improving the efficiency of the Model and deploying it to the cloud.
