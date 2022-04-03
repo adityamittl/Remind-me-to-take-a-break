@@ -9,6 +9,8 @@ Remind me to take a break is an platform where the video you are wathing is paus
 
 - Django: For backend
 - Python: For backend
+- Selenium: For browser controlling
+- Tkinter: For desktop GUI
 - HTML and CSS: For frontend
 - Java: For making the android app
 
