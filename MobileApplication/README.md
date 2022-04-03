@@ -10,13 +10,3 @@
 <img src="https://i.ibb.co/wwtVj9b/9.jpg" width=300/>
 <img src="https://i.ibb.co/1rHFCZf/10.jpg" width=300/>
 <img src="https://i.ibb.co/hf4X0Zx/11.jpg" width=300/>
-
-## Local setup
-* Generate an api_key from [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)\
-* Update the following line in local.properties
-```
-api_key=YOUR_TMDB_API_KEY
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
