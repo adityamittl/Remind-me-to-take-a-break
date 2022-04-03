@@ -3,16 +3,21 @@
 ## 💡 Inspiration
 
 ## 💻 What it does
+Remind me to take a break is an platform where the video you are wathing is paused whenever you are not facing towards the screen. Your face is tracked and if you are not facing towards the screen, the video is paused.
 
 ## ⚙️ How we built it
 
 - Django: For backend
 - Python: For backend
 - HTML and CSS: For frontend
+- Java: For making the android app
 
 ## 🧠 Challenges we ran into
 
 - We have some challenges with the backend, but we managed to get the project done.
+- Implementing the android app was a challenge.
+- We had to use a lot of time to get the app to work.
+- Making the computer vision part was a challenge.
 
 ## 🏅 Accomplishments that we're proud of
 
